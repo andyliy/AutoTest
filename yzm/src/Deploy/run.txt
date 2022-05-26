@@ -1,0 +1,7 @@
+open,http://web.trshz.com:8060/ids/admin/login.jsp
+switch
+input,//*[@id="loginKey"],trsceshi
+input,//*[@id="password"],trsadmin1!
+yzm,//*[@id="verifycode"]
+click,//*[@id="submitLoginBtn"]
+pagedown

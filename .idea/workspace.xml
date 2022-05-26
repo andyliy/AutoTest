@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce7bf1b1-9c99-4087-9800-3186efb8a590" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/auto_test/Screenshots/screen.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23DEQISj0gWNRoWyXxXJqHx4SXm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\86135\eclipse-workspace\workspace\auto_test - 副本\yzm\src\images" />
+      <recent name="D:\Users\86135\eclipse-workspace\workspace\auto_test - 副本\yzm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\86135\eclipse-workspace\workspace\auto_test - 副本\yzm\src\images" />
+      <recent name="D:\Users\86135\eclipse-workspace\workspace\auto_test - 副本\yzm\src\test\java" />
+      <recent name="D:\Users\86135\eclipse-workspace\workspace\auto_test\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="yzm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maven_test.auto_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maven_test.auto_test" />
+      <option name="MAIN_CLASS_NAME" value="maven_test.auto_test.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.app_MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auto_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="maven_test.auto_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="maven_test.auto_test" />
+      <option name="MAIN_CLASS_NAME" value="maven_test.auto_test.AppTest" />
+      <option name="METHOD_NAME" value="app_MainTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yzm_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yzm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="yzm_test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yzm_test.app_MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yzm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="yzm_test" />
+      <option name="METHOD_NAME" value="app_MainTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="JUnit.yzm_test" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.yzm_test.app_MainTest" />
+        <item itemvalue="JUnit.AppTest.app_MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce7bf1b1-9c99-4087-9800-3186efb8a590" name="Default Changelist" comment="" />
+      <created>1641260239315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641260239315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645167269243">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="495" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1493.893@0.0.1493.893" timestamp="1645167269243" />
+    <state x="553" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1645171740264">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="553" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1493.893@0.0.1493.893" timestamp="1645171740264" />
+    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1645600222162">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="438" height="466" key="DebuggerActiveHint/0.0.1493.893@0.0.1493.893" timestamp="1645600222162" />
+    <state x="528" y="202" key="FileChooserDialogImpl" timestamp="1653530259369">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="528" y="202" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1653530259369" />
+    <state width="1450" height="198" key="GridCell.Tab.0.bottom" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.0.center" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.0.left" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.0.right" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.1.bottom" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.1.center" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.1.left" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state width="1450" height="198" key="GridCell.Tab.1.right" timestamp="1652238225858">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="1450" height="198" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
+    <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1645172099458">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="278" y="102" key="Maven.ArtifactSearchDialog/0.0.1493.893@0.0.1493.893" timestamp="1645172099458" />
+    <state width="754" height="454" key="XDebugger.FullValuePopup" timestamp="1645167893861">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state width="754" height="454" key="XDebugger.FullValuePopup/0.0.1493.893@0.0.1493.893" timestamp="1645167893861" />
+    <state x="179" y="83" width="1224" height="660" key="new project wizard" timestamp="1644913425639">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="179" y="83" width="1224" height="660" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1644913425639" />
+    <state x="511" y="321" width="615" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1645166720552">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="511" y="321" width="615" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1493.893@0.0.1493.893" timestamp="1645166720552" />
+    <state x="404" y="204" key="run.anything.popup" timestamp="1652236891379">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="404" y="204" key="run.anything.popup/0.0.1493.893@0.0.1493.893" timestamp="1652236891379" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/maven_test/auto_test/Test1.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/maven_test/auto_test/Test1.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/maven_test/auto_test/Test1.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/maven_test/auto_test/Test1.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auto_test___$yzm_test.ic" NAME="yzm_test Coverage Results" MODIFIED="1644387796254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/auto_test___$GUI.ic" NAME="GUI Coverage Results" MODIFIED="1644916242124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
