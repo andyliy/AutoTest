@@ -5,6 +5,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.asserts.SoftAssert;
 
 import javax.swing.*;
 import java.awt.*;
@@ -15,6 +16,7 @@ import java.awt.event.ComponentEvent;
 import java.io.*;
 import java.util.Scanner;
 import java.util.Set;
+
 
 public class GUI {public static void main(String[] args) {
 
@@ -153,6 +155,14 @@ public class GUI {public static void main(String[] args) {
             JButton calButton = new JButton("取消");
             calButton.setBounds(200, 170, 140, 40);
             calButton.setLocation(850, 750);
+            calButton.addActionListener(new ActionListener() {
+                @Override
+                public void actionPerformed(ActionEvent e) {
+                    //取消按钮，返回前窗口
+//                    f2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                }
+            });
+
             //添加测试脚本页jframe资源
             //把滚动条添加到容器里面
             f2.add(jsp);
@@ -424,6 +434,10 @@ public class GUI {public static void main(String[] args) {
                     //函数实现，拆分后，以A（函数名），B（应用类型），C（Xpath），D（字段1），E（字段1）
 //                        System.out.println(lineString);
                         //------------------------------------------------------------
+                        //断言，失败不会中断自动化测试
+//                        SoftAssert asert = new SoftAssert();
+
+
                         if(part[0].equals("open")){
                             String https; //地址，登录名，密码
                             https = part[1];
@@ -477,7 +491,12 @@ public class GUI {public static void main(String[] args) {
                         }
                         if(part[0].equals("switch")){
                             Set<String> windows = driver.getWindowHandles();
+                            //切换至最近的活跃windows窗口
                             driver.switchTo().window((String) windows.toArray()[windows.size()-1]);
+                            //切换至最近的活跃frame窗口
+//                            driver.switchTo().frame((String) windows.toArray()[windows.size()-1]);
+                            //切换至最近的活跃alert弹框
+//                            driver.switchTo().alert();
                             //等待程序响应
                             try {
                                 waitForPageLoad(driver);
@@ -550,11 +569,13 @@ public class GUI {public static void main(String[] args) {
                         }
 
                         //各脚本间的延时设置
-                        try {
-                            Thread.sleep(500);
-                        } catch (InterruptedException interruptedException) {
-                            interruptedException.printStackTrace();
-                        }
+                        new WebDriverWait(driver,2000);
+//                        try {
+//
+//                            Thread.sleep(500);
+//                        } catch (InterruptedException interruptedException) {
+//                            interruptedException.printStackTrace();
+//                        }
                         //输出日志
 //                        Object log = lineString[i];
                         //System.out.println(line);

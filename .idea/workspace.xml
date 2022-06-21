@@ -11,7 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7bf1b1-9c99-4087-9800-3186efb8a590" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/auto_test/Screenshots/screen.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_reportng_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/src/Deploy/Deploy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/src/Deploy/Deploy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/src/test/java/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/src/test/java/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/target/test-classes/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/target/test-classes/GUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yzm/yzm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/yzm/yzm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -147,70 +167,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="495" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645167269243">
+    <state x="528" y="202" key="FileChooserDialogImpl" timestamp="1653530775263">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="495" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1493.893@0.0.1493.893" timestamp="1645167269243" />
-    <state x="553" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1645171740264">
+    <state x="528" y="202" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1653530775263" />
+    <state width="1450" height="220" key="GridCell.Tab.0.bottom" timestamp="1655821779850">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="553" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1493.893@0.0.1493.893" timestamp="1645171740264" />
-    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1645600222162">
+    <state width="1450" height="220" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1655821779850" />
+    <state width="1450" height="220" key="GridCell.Tab.0.center" timestamp="1655821779850">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="438" height="466" key="DebuggerActiveHint/0.0.1493.893@0.0.1493.893" timestamp="1645600222162" />
-    <state x="528" y="202" key="FileChooserDialogImpl" timestamp="1653530259369">
+    <state width="1450" height="220" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1655821779850" />
+    <state width="1450" height="220" key="GridCell.Tab.0.left" timestamp="1655821779850">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="528" y="202" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1653530259369" />
-    <state width="1450" height="198" key="GridCell.Tab.0.bottom" timestamp="1652238225858">
+    <state width="1450" height="220" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1655821779850" />
+    <state width="1450" height="220" key="GridCell.Tab.0.right" timestamp="1655821779850">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1450" height="198" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.0.center" timestamp="1652238225858">
+    <state width="1450" height="220" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1655821779850" />
+    <state width="1450" height="198" key="GridCell.Tab.1.bottom" timestamp="1655795322710">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1450" height="198" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.0.left" timestamp="1652238225858">
+    <state width="1450" height="198" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1655795322710" />
+    <state width="1450" height="198" key="GridCell.Tab.1.center" timestamp="1655795322709">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1450" height="198" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.0.right" timestamp="1652238225858">
+    <state width="1450" height="198" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1655795322709" />
+    <state width="1450" height="198" key="GridCell.Tab.1.left" timestamp="1655795322709">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1450" height="198" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.1.bottom" timestamp="1652238225858">
+    <state width="1450" height="198" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1655795322709" />
+    <state width="1450" height="198" key="GridCell.Tab.1.right" timestamp="1655795322710">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1450" height="198" key="GridCell.Tab.1.bottom/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.1.center" timestamp="1652238225858">
+    <state width="1450" height="198" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1655795322710" />
+    <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1655792877312">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1450" height="198" key="GridCell.Tab.1.center/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.1.left" timestamp="1652238225858">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state width="1450" height="198" key="GridCell.Tab.1.left/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state width="1450" height="198" key="GridCell.Tab.1.right" timestamp="1652238225858">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state width="1450" height="198" key="GridCell.Tab.1.right/0.0.1493.893@0.0.1493.893" timestamp="1652238225858" />
-    <state x="278" y="102" key="Maven.ArtifactSearchDialog" timestamp="1645172099458">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state x="278" y="102" key="Maven.ArtifactSearchDialog/0.0.1493.893@0.0.1493.893" timestamp="1645172099458" />
-    <state width="754" height="454" key="XDebugger.FullValuePopup" timestamp="1645167893861">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state width="754" height="454" key="XDebugger.FullValuePopup/0.0.1493.893@0.0.1493.893" timestamp="1645167893861" />
-    <state x="179" y="83" width="1224" height="660" key="new project wizard" timestamp="1644913425639">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state x="179" y="83" width="1224" height="660" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1644913425639" />
-    <state x="511" y="321" width="615" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1645166720552">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state x="511" y="321" width="615" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1493.893@0.0.1493.893" timestamp="1645166720552" />
+    <state x="278" y="102" key="Maven.ArtifactSearchDialog/0.0.1493.893@0.0.1493.893" timestamp="1655792877312" />
     <state x="404" y="204" key="run.anything.popup" timestamp="1652236891379">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
